@@ -1,16 +1,13 @@
-### Hi there 👋
+## :books: Books
 
-<!--
-**nimisbert/nimisbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [ ] Loudon Kyle, _Mastering algorithm with C_, __O'REILLY__, April 2002
+- [X] Mecklenburg Robert, _Managing Projects with GNU Make_, __O'REILLY__, November 2004
+- [ ] Hébert Fred, _Learn You Some Erlang for Great Good!_, __No Starch Press__, 2013
+- [ ] Lipovača Miran, _Learn You a Haskell for Great Good!_, __No Starch Press__, 2011
+- [ ] Érdi Gergő, _Retrocomputing with Clash_, __Leanpub__, April 2022
+- [ ] B. Mark, _64-bit assembly programming for Linux_, __Sharanych Media__, 2020
 
-Here are some ideas to get you started:
+## :computer: Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [ ] C based bond graph system modeler
+- [ ] WiFi Bot with a monstous I2C backbone and a Lidar
