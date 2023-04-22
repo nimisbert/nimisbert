@@ -1,3 +1,7 @@
+## :technologist: Summary 
+
+An R&D engineer with a taste for science. I'm currently exploring the topics of algorithms & data-structures, Haskell programming, ecological modeling, robotics and cryptography. The repository for exploring those topics is [42](https://github.com/nimisbert/42).
+
 ## :books: Books
 
 - [ ] Loudon Kyle, _Mastering algorithm with C_, __O'REILLY__, April 2002
@@ -11,3 +15,5 @@
 
 - [ ] C based bond graph system modeler
 - [ ] WiFi Bot with a monstous I2C backbone and a Lidar
+- [ ] C based cryptography 
+- [ ] Haskell/Gloss ecological environment modeling
