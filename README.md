@@ -16,14 +16,6 @@ An R&D engineer with a taste for science. I'm currently exploring the topics of 
 
 ## :computer: Projects
 
-https://progress-bar.dev/91/
-
-https://progress-bar.dev/28/?title=progress
-
-https://progress-bar.dev/1?title=Petri dish in Haskell
-
-https://progress-bar.dev/83?title=Cryptography Algorithms in C
-
-https://progress-bar.dev/10?title=Wifibot
-
-https://progress-bar.dev/0?title=Ladder Network Solver in C
+- [ ] Petri dish in Haskell
+- [ ] Cryptography Algorithms in C
+- [ ] Ladder Network Solver in C
