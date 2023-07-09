@@ -1,21 +1,55 @@
 ## :technologist: Summary 
 
-An R&D engineer with a taste for science. I'm currently exploring the topics of algorithms & data-structures, Haskell programming, ecological modeling, electronics, robotics and cryptography. The repository for exploring those topics is [42](https://github.com/nimisbert/42). [HW](https://github.com/nimisbert/42/tree/main/HW) is for electronics related topics, i.e. Kicad and LTspice. [SW](https://github.com/nimisbert/42/tree/main/SW) is for programming languages related topics, i.e. C and Haskell.
+An R&D engineer with a taste for science. My science exploring repository is [42](https://github.com/nimisbert/42).
+[HW](https://github.com/nimisbert/42/tree/main/HW) is for electronics related topics, i.e. Kicad and LTspice. 
+[SW](https://github.com/nimisbert/42/tree/main/SW) is for programming languages related topics, i.e. C and Haskell.
 
 ## :books: Books
 
-- [ ] Loudon Kyle, _Mastering algorithm with C_, __O'REILLY__, April 2002
-- [X] Mecklenburg Robert, _Managing Projects with GNU Make_, __O'REILLY__, November 2004
-- [ ] Hébert Fred, _Learn You Some Erlang for Great Good!_, __No Starch Press__, 2013
-- [ ] Lipovača Miran, _Learn You a Haskell for Great Good!_, __No Starch Press__, 2011
-- [ ] Érdi Gergő, _Retrocomputing with Clash_, __Leanpub__, April 2022
-- [ ] B. Mark, _64-bit assembly programming for Linux_, __Sharanych Media__, 2020
-- [ ] P. Horowitz & W. Hill, _The Art of Electronics_, __Cambridge University Press__, 2015
-- [ ] S. Dusausay, _L'Electronique par la simulation_, 2023
-- [ ] Jon B. Hagen, _Radio Frequency Electronics_, __Cambridge University Press__, 2009
+- ![50%](https://progress-bar.dev/50) Loudon Kyle, _Mastering algorithm with C_, __O'REILLY__, April 2002 
+- ![100%](https://progress-bar.dev/100) Mecklenburg Robert, _Managing Projects with GNU Make_, __O'REILLY__, November 2004
+- ![50%](https://progress-bar.dev/50) Lipovača Miran, _Learn You a Haskell for Great Good!_, __No Starch Press__, 2011
+- ![100%](https://progress-bar.dev/100) B. Mark, _64-bit assembly programming for Linux_, __Sharanych Media__, 2020
+- ![02%](https://progress-bar.dev/02) P. Horowitz & W. Hill, _The Art of Electronics_, __Cambridge University Press__, 2015
+- ![08%](https://progress-bar.dev/08) S. Dusausay, _L'Electronique par la simulation_, 2023
+- ![00%](https://progress-bar.dev/00) Jon B. Hagen, _Radio Frequency Electronics_, __Cambridge University Press__, 2009
 
 ## :computer: Projects
 
-- [ ] Petri dish in Haskell
-- [ ] Cryptography Algorithms in C
-- [ ] Ladder Network Solver in C
+- ![80%](https://progress-bar.dev/80) Cryptography Algorithms in C
+- ![02%](https://progress-bar.dev/02) Biologic dynamic systems modeler in Haskell
+- ![00%](https://progress-bar.dev/00) Electronic circuits modeler in C
+- ![00%](https://progress-bar.dev/00) Unified systems modeler in Haskell
+
+## :chart_with_upwards_trend: Roadmap
+
+```mermaid
+flowchart TB
+classDef blue fill:#2374f7,stroke:#000,stroke-width:2px,color:#fff
+classDef orange fill:#fc822b,stroke:#000,stroke-width:2px,color:#fff
+
+B1(The art of electronics):::blue 
+B2(Electronique par la simulation):::blue
+B3(Radio frequency electronics):::blue
+B4(Mastering algorithm with C):::blue
+B5(CGP Math):::blue
+B6(Learn you a Haskell for great good!):::blue
+
+O1(LTspice reference simulations):::orange
+O2(C based circuits modeler):::orange
+O3(Biologic dynamic systems modeler):::orange
+O4(Unified dynamic system modeler in Haskell):::orange
+O5(Cryptography in C):::orange
+
+B1 ---> B2 & O1
+B2 ---> B3 & O1
+B3 ---> O1
+O1 ---> O2
+B3 ---> O2
+B4 ---> O2
+B5 ---> O3
+B6 ---> O3
+O3 ---> O4
+O2 ---> O4
+B4 ---> O5
+```
