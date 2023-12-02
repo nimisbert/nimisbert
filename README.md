@@ -1,4 +1,4 @@
-I'm a science enthusiast, working on four topics at a leisurely pace :
+I'm a science enthusiast, working on a few topics at a leisurely pace :
 - mathematics
 - electronics
 - cryptography
