@@ -1,5 +1,3 @@
 - [[Algèbre]]
 - [[Polynômes]]
 - [[Cinématique]]
-
-- [[Euler]]
