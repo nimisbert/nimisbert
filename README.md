@@ -4,7 +4,7 @@
 <h3 align="center">Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nimisbert&show_icons=true&theme=transparent&line_height=20"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimisbert&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimisbert&theme=transparent&layout=compact"/>
 </p>
 
 <h3 align="center">Stack</h3>
