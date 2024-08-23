@@ -10,6 +10,6 @@
 <h3 align="center">Stack</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,neovim,c,cpp,fortran,octave,py,julia,latex,cmake,docker,git,linux" />
+    <img src="https://skillicons.dev/icons?i=vim,neovim,c,cpp,fortran,octave,py,julia,lua,latex,cmake,docker,git,linux" />
   </a>
 </p>
