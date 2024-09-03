@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<h3 align="center">Some cool work, I've done</h3>
+<h3 align="center">Some cool work I've done</h3>
 <p align="center">A Lorenz Attractor Analog computer in SPICE.</p>
 <p align="center">
    <img src="https://github.com/nimisbert/Lorenz/blob/main/assets/butterfly.gif"/>
