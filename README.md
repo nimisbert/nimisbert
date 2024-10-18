@@ -1,5 +1,6 @@
 <h3 align="center">Briefly</h3>
 <p align="center">I'm an R&D engineer, a science enthusiast, working on a few topics at a leisurely pace.</p>
+<p align="center">I will not install a software on my phone to use 2FA, scram it Github.</p>
 
 <!---
 <h3 align="center">Stats</h3>
